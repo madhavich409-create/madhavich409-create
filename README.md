@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Madhavi 👋
 
-<!--
-**madhavich409-create/madhavich409-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech ECE Final Year | AI Trainee at Calibo AI Academy | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a final-year Electronics and Communication Engineering student and an AI Trainee at Calibo AI Academy, interested in software development, Python, data analysis, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+
+- Python
+- C
+- SQL
+- NumPy
+- Pandas
+- MS Excel
+- Git & GitHub
+
+### 📚 Currently Learning
+
+- Generative AI
+- Python Programming
+- NumPy & Pandas
+- SQL
+- Git & GitHub
+
+### 🎯 Career Goal
+
+Aspiring to build a career as a Software Engineer and continuously develop my technical skills.
+
+### 📫 Contact
+
+📧 madhavich409@gmail.com
