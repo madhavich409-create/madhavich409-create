@@ -1,31 +1,72 @@
-# Hi, I'm Madhavi 👋
+Hi, I'm Madhavi 👋
 
-### 🎓 B.Tech ECE Final Year | AI Trainee at Calibo AI Academy | Aspiring Software Engineer
+🎓 B.Tech ECE Final-Year Student
+🤖 AI Trainee | Calibo AI Academy
 
-I'm a final-year Electronics and Communication Engineering student and an AI Trainee at Calibo AI Academy, interested in software development, Python, data analysis, and Generative AI.
+About Me
 
-### 💻 Skills
+I'm a final-year Electronics and Communication Engineering student learning Python programming, Generative AI, data analysis, and Data Engineering through the Calibo AI Academy training program.
 
-- Python
-- C
-- SQL
+I enjoy learning new technologies and applying them through practical exercises and projects.
+
+Technical Skills & Learning
+
+Python & Data Analysis
+
+- Python Programming
 - NumPy
 - Pandas
-- MS Excel
-- Git & GitHub
+- Matplotlib
+- Data Cleaning and Analysis
+- Data Visualization
 
-### 📚 Currently Learning
+Generative AI
 
-- Generative AI
-- Python Programming
-- NumPy & Pandas
-- SQL
-- Git & GitHub
+- Introduction to Generative AI
+- Basic LLM Usage
+- Prompting Fundamentals
+- Prompt Patterns
+- Conversational Scaffolding
 
-### 🎯 Career Goal
+APIs & Data Formats
 
-Aspiring to build a career as a Software Engineer and continuously develop my technical skills.
+- JSON
+- API Fundamentals
+- REST API Concepts
 
-### 📫 Contact
+Data Engineering
 
-📧 madhavich409@gmail.com
+- Introduction to Data Engineering
+- Data Processing Fundamentals
+- Working with Structured Data
+
+Development Tools
+
+- Git
+- GitHub
+- VS Code
+
+Projects
+
+- Student Marks Analysis
+- Simple Python Calculator
+- Python Practice Programs
+- Data Analysis Practice
+- Calibo AI Academy Learning Exercises
+
+Current Goals
+
+- Improve Python programming skills
+- Practice NumPy and Pandas
+- Build practical data analysis projects
+- Explore Generative AI and LLM applications
+- Learn Data Engineering concepts
+- Maintain consistent GitHub activity
+
+Learning Philosophy
+
+I believe in learning by doing, practicing consistently, and improving through every project.
+
+---
+
+🚀 Learning • Building • Improving
